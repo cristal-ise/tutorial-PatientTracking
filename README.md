@@ -1,4 +1,4 @@
-tutorial-patien-tracking
-========================
+Patient Tracking Tutorial
+=========================
 
-Ddvanced tutorial for developers and architects.
+Advanced tutorial for developers and architects.
