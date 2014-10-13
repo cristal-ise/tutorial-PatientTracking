@@ -1,0 +1,9 @@
+<Resource name="Synopsis" version="0" type="OD">boot/OD/Synopsis.xsd</Resource>
+<Resource name="Comprehensive Eye Examination" version="0" type="EA">boot/EA/Comprehensive Eye Examination.xml</Resource>
+<Resource name="Synopsis" version="0" type="OD">boot/OD/Synopsis.xsd</Resource>
+<Resource name="Urinalysis" version="0" type="EA">boot/EA/Urinalysis.xml</Resource>
+<Resource name="Synopsis" version="0" type="OD">boot/OD/Synopsis.xsd</Resource>
+<Resource name="Blood Biochemical Analysis" version="0" type="EA">boot/EA/Blood Biochemical Analysis.xml</Resource>
+<Resource name="Synopsis" version="0" type="OD">boot/OD/Synopsis.xsd</Resource>
+<Resource name="ECG" version="0" type="EA">boot/EA/ECG.xml</Resource>
+<Resource name="Protocol" type="CA">boot/CA/Protocol.xml</Resource>
