@@ -1,0 +1,5 @@
+<AllProperties>
+    <PropertyDescription DefaultValue="" IsClassIdentifier="false" IsMutable="true" Name="Name"/>
+    <PropertyDescription DefaultValue="Patient" IsClassIdentifier="false" IsMutable="false" Name="Type"/>
+    <PropertyDescription DefaultValue="" IsClassIdentifier="false" IsMutable="true" Name="NationalInsuranceNumber"/>
+</AllProperties>
